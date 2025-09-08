@@ -3,7 +3,7 @@
 
 Shop Management software is so designed as to ease the workload of shop professionals. The main feature includes invoicing, inventory and stock control, accounting, client and vendor management This Retail Software helps you to track all the profits, loss, profitable clients and products of shop moreover it’s a shop accounting software. Flexible and adaptive software suited to shops or stores or pharmacies of any size.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/07/shop-management_5.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738593204_6e448e88e62ca20bd448.webp">
 
 <b>Shop Management Software has the following key features:</b>
 
@@ -37,5 +37,15 @@ Shop Management software is so designed as to ease the workload of shop professi
 <li>Profit and Loss</li>
 <li>Balance Sheet</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/shop-management/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/retail-shop-pos-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
